@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f7c1257.css",
+    "main.js": "/static/js/main.6d7f5170.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "static/media/project2.png": "/static/media/project2.cf382c48f2776f7845e8.png",
+    "static/media/Project3.png": "/static/media/Project3.83c8ec75667c22a39144.png",
+    "static/media/profile.jpg": "/static/media/profile.45b2ab1411214f973622.jpg",
+    "static/media/testimonial1.png": "/static/media/testimonial1.04171331e6d377c5d28d.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.04171331e6d377c5d28d.png",
+    "static/media/testimonial3.png": "/static/media/testimonial3.04171331e6d377c5d28d.png",
+    "static/media/pratima_resume.pdf": "/static/media/pratima_resume.ba391a8b60bb08b2acf1.pdf",
+    "static/media/project1.png": "/static/media/project1.9c8e724eebc9d793cb4b.png",
+    "index.html": "/index.html",
+    "main.9f7c1257.css.map": "/static/css/main.9f7c1257.css.map",
+    "main.6d7f5170.js.map": "/static/js/main.6d7f5170.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f7c1257.css",
+    "static/js/main.6d7f5170.js"
+  ]
+}
